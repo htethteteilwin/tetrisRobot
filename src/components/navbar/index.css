@@ -1,0 +1,31 @@
+Button {
+    height: 48px;
+    width: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    font-size: 21px;
+    margin-right: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.New {
+    color: #FFFFFF;
+    background-color: #646C9D;
+    border-color: #FFFFFF;
+}
+
+.Save {
+    color: #646C9D;
+    background-color: #FFFFFF;
+    border-color: #646C9D;
+}
+
+.appBar {
+    color: #646C9D;
+    background-color: #646C9D;
+}
+
+.flex {
+    flex: 1;
+}

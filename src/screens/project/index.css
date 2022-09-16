@@ -1,0 +1,11 @@
+.Box {
+    background-color: '#E0E2EB';
+    height: '900px';
+    width: '30%';
+    padding-left: '24px';
+    padding-right: '24px';
+    margin-right: '24px';
+    margin-left: '24px';
+    flex: 1;
+    position: 'static';
+}
